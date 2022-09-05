@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "Hello, world"
+chmod -v +x 0-hello_world
+sh 0-hello_world
